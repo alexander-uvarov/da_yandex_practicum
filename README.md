@@ -4,8 +4,7 @@
 - [Проверка гипотез по параметрам ICE, RICE. Проверка результатов А/В-теста](09_ice_rice_new_fonts_ab_test)
 - [Проверка гипотез по увеличению выручки в интернет магазине](10_mobile_app_ab_test)
 - [Исследование поведения пользователей мобильного приложения "Ненужные вещи"](13_app_flea_market)
-<<<<<<< HEAD
-- [Оценка результатов А/В-теста](14_ab_test)
+- [Оценка результатов А/В-теста](14_recommender_system_ab_test)
 
 
 # Portfolio
@@ -17,6 +16,3 @@
 | 1.   | [Улучшение процесса обогащения золота](https://github.com/aq2003/Portfolio/tree/main/Gold%20Recovery) | Выбор лучшей модели для увеличения <br/>показателей технологического процесса <br/>обогащения золота | python, pandas, numpy, scipy, sklearn, matplotlib       |
 | 2.   | [Прогноз количества заказов для сервиса такси](https://github.com/aq2003/Portfolio/tree/main/Taxi%20Service) | Прогноз количества заказов в аэропортах <br/>для сервиса такси с целью более точного планирования количества доступных <br/>автомобилей | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib |
 | 3.   | [Анализ текстов](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
-=======
-- [Оценка результатов А/В-теста](14_recommender_system_ab_test)
->>>>>>> d4c2c78604865bd7acff7eaa041bf9b5053fbd75
